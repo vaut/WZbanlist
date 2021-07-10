@@ -76,6 +76,8 @@
 46.211.37.* adolf
 46.211.19.* adolf
 46.203.* adolf
+46.203.194.* adolf
+46.203.13.* adolf
 45.87.212.* basset
 45.87.212.* adolf
 37.52.23.* adolf
@@ -84,6 +86,7 @@
 37.120.198.* lukamagnotta
 37.120.198.* jewishgaynigger
 37.120.198.* holocaustdenier
+37.120.137.* calucifer
 37.120.137.* adolf
 37.120.136.* adolf
 31.173.120.* Adolf Nitro (AtaTa)
@@ -93,6 +96,7 @@
 23.154.160.* adolf
 23.106.63.* killniggers
 23.106.63.* holocaustdenier
+23.106.63.* adulfhigger
 23.106.63.* adolf
 5.100.83.* luka
 5.100.82.* luka
