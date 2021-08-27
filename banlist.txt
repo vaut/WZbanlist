@@ -58,6 +58,7 @@
 92.119.177.* adminlobbyidiot
 91.219.215.* adolf hitler↯↯
 91.195.99.* adolf hitler↯↯
+91.149.252.* basset
 89.46.103.* adolf hitler↯↯
 89.41.26.* adolf hitler↯↯
 89.249.65.* adolf hitler↯↯
@@ -89,6 +90,7 @@
 46.211.61.* adolf hitler↯↯
 46.211.56.* adolf hitler↯↯
 46.211.54.* adolf hitler↯↯
+46.211.52.* adolf hitler↯↯
 46.211.49.* adolf hitler↯↯
 46.211.41.* fatalist
 46.211.37.* adolf hitler↯↯
