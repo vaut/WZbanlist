@@ -67,6 +67,7 @@
 89.238.150.* holocaustdenier
 89.238.150.* bin laden
 86.106.87.* adolf hitler↯↯
+84.17.50.* her jidam
 82.102.24.* calucifer
 82.102.24.* adolf hitler↯↯
 82.102.22.* adolf hitler↯↯
@@ -83,6 +84,7 @@
 71.19.251.* adolf
 68.235.38.* adolf hitler↯↯
 68.235.33.* adolf hitler↯↯
+46.211.* KSNET-AS provider
 46.211.91.* basset
 46.211.91.* adolf hitler↯↯
 46.211.87.* adolf hitler↯↯
@@ -90,6 +92,7 @@
 46.211.61.* adolf hitler↯↯
 46.211.56.* adolf hitler↯↯
 46.211.54.* adolf hitler↯↯
+46.211.52.* her jidam
 46.211.52.* adolf hitler↯↯
 46.211.49.* adolf hitler↯↯
 46.211.41.* fatalist
