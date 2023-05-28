@@ -42,6 +42,7 @@
 130.180.211.* fatalist
 130.180.210.* surax
 128.124.237.* adolf hitler↯↯
+128.124.137.* adolf hitler↯↯
 109.126.43.* luka
 109.126.43.185 Luka
 107.161.86.* calucifer
