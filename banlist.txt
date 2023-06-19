@@ -7,6 +7,7 @@
 198.96.95.* adolf hitler↯↯
 198.8.85.* adolf hitler↯↯
 198.55.126.* adolf hitler↯↯
+196.117.* cleptomantis
 194.59.249.* adolf hitler↯↯
 194.44.241.* adolf
 193.176.87.* adolf hitler↯↯
@@ -73,6 +74,7 @@
 82.102.24.* calucifer
 82.102.24.* adolf hitler↯↯
 82.102.22.* adolf hitler↯↯
+80.143.* DARKBOSS
 79.210.* SoulKey
 79.215.* SoulKey
 78.111.* adolf
@@ -110,6 +112,7 @@
 45.87.214.* adolf
 45.87.212.* basset
 45.87.212.* adolf hitler↯↯
+41.92.* cleptomantis
 37.52.23.* adolf
 37.52.236.* adolf hitler↯↯
 37.52.236.* adolf
@@ -129,6 +132,7 @@
 23.106.63.* adulfhigger
 23.106.63.* adolf nigger
 23.106.63.* adolf
+5.173.* adolf hitler
 5.100.83.* luka
 5.100.82.* luka
 5.100.68.* luka
