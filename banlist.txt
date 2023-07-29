@@ -74,7 +74,6 @@
 82.102.24.* calucifer
 82.102.24.* adolf hitler↯↯
 82.102.22.* adolf hitler↯↯
-80.143.* DARKBOSS
 79.210.* SoulKey
 79.215.* SoulKey
 78.111.* adolf
