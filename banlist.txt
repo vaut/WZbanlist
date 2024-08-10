@@ -24,6 +24,7 @@
 185.128.25.* adolf hitler↯↯
 185.104.185.* adolf hitler↯↯
 185.104.184.* adolf hitler↯↯
+179.105.* Lucas
 178.211.43.* basset
 178.211.43.* adolf hitler↯↯
 178.133.* adolf
